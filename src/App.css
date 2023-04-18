@@ -24,6 +24,19 @@
   color: white;
 }
 
+li {
+ list-style: none;
+ margin-bottom: 5px;
+}
+.strike {
+  color: green;
+  text-decoration: line-through;
+  
+}
+.neutral{
+  color: rgb(63, 63, 63);
+}
+
 .App-link {
   color: #61dafb;
 }
